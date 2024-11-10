@@ -1,0 +1,7 @@
+C:\Users\kalwa\source\repos\discord tools\discord tools\bin\Debug\discord tools.exe.config
+C:\Users\kalwa\source\repos\discord tools\discord tools\bin\Debug\discord tools.exe
+C:\Users\kalwa\source\repos\discord tools\discord tools\bin\Debug\discord tools.pdb
+C:\Users\kalwa\source\repos\discord tools\discord tools\obj\Debug\discord tools.csproj.AssemblyReference.cache
+C:\Users\kalwa\source\repos\discord tools\discord tools\obj\Debug\discord tools.csproj.CoreCompileInputs.cache
+C:\Users\kalwa\source\repos\discord tools\discord tools\obj\Debug\discord tools.exe
+C:\Users\kalwa\source\repos\discord tools\discord tools\obj\Debug\discord tools.pdb
